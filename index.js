@@ -1,4 +1,4 @@
-exports.fibonacci = function factorial(n) {
+exports.factorial = function factorial(n) {
     if(n==0 || n==1)
         return n;
     else if (n < 0)
